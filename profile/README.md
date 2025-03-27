@@ -1,12 +1,15 @@
-## Hi there 👋
+# BrandLovers 💜
 
-<!--
+**Conectando marcas e creators com inteligência, performance e autenticidade.**
 
-**Here are some ideas to get you started:**
+Bem-vindo ao GitHub oficial da BrandLovers! Aqui mantemos os projetos de tecnologia que sustentam nossa missão de transformar o marketing de influência em um ecossistema data-driven, acessível e transparente para marcas e criadores de conteúdo.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 Sobre a BrandLovrs
+
+A BrandLovrs é uma plataforma que conecta marcas a creators de forma inteligente e escalável. Nossa tecnologia permite que marcas construam campanhas com criadores alinhados à sua identidade, acompanhem resultados com precisão e automatizem processos de ponta a ponta — da seleção de creators ao pagamento.
+
+Nosso time é apaixonado por tecnologia, dados, produto e impacto real.
+
+---
+
+Feito com 💜 pelo time de tecnologia da BrandLovrs.
